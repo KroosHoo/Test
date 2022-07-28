@@ -1,1 +1,2 @@
-123asdasd
+include java.xxx
+main(){}
